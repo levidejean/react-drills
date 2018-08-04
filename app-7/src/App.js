@@ -5,7 +5,7 @@ import NewTask from './NewTask';
 import List from './List';
 
 class App extends Component {
-  constructor() {
+  constructor () {
     super();
 
     this.state = {
